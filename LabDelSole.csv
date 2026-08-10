@@ -1,0 +1,85 @@
+tipologia,modello,ore impiegate,prezzo,peso,design mio,perline,rimaste,regalate,passaparola aut 23,passaparola inv 23,passaparola prim 24,passaparola est 24,passaparola aut 24,passaparola inv 24,passaparola prim 25,passaparola est 25,passaparola aut 25,passaparola inv 25,passaparola prim 26,passaparola est 26,mercatino est 24,mercatino inv 24,mercatino aut 25,mercatino prim 26,mercatino est 26
+ciondolo,albero,8,50,,TRUE,TRUE,,1,,1,,,,,,,,1,,,,,,,1
+ciondolo,albero semplice,5,35,7.35,TRUE,FALSE,1,,,,,,,,,,,,,,,,,,
+orecchini,spirali con raggi,2,20,2.8,TRUE,TRUE,,1,,,,1,,,,,,,,,,,,1,
+orecchini,pesci,1,15,2.9,FALSE,FALSE,1,2,,,,,,,,,,1,1,,,,,1,2
+orecchini,sole-luna,1,15,1.9,TRUE,TRUE,1,1,1,,,,,,,,,,,,,,,,
+bracciale,onde,1,15,,FALSE,FALSE,1,,,,,1,,2,1,,,,2,,1,,,1,1
+anello,serpente,3,25,4.2,FALSE,TRUE,,,,,1,,,,,1,,,,,,1,,1,
+bracciale,cerchi,2,20,14.3,FALSE,FALSE,2,,,,1,,,,,,,,,,1,,,,
+ciondolo,serpente,6,50,,TRUE,TRUE,,,,,,,,,,,,,,,1,,,,
+orecchini,goccia,3,25,,FALSE,TRUE,,,,,,,,,,,,,,,,,,,1
+bracciale,treccia,2,20,7.5,TRUE,TRUE,2,,,,,,,,,,,,,,,1,,1,1
+orecchini,chiave violino,1,15,,TRUE,TRUE,,,,,,,,,,,,,,,,,,,1
+bracciale,spirali modulare,5,25,17.8,FALSE,FALSE,2,1,1,1,,,,,,,,,,,1,,,,
+bracciale,battuto,2,20,10.6,TRUE,FALSE,1,,,,,,,,,,,,,,,,1,,
+ciondolo,conchiglia,1,10,,TRUE,FALSE,1,,,,,,,,,1,,,,,,,,,1
+ciondolo,per ankh,2,20,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,1
+anello,fascia,2,25,3.2,TRUE,FALSE,1,,,,,,1,,,,2,,,,1,1,,,1
+anello,pietra,2,25,4,TRUE,TRUE,,1,,,,,,,,,,2,,,,1,,,1
+orecchini,meduse,3,20,,TRUE,TRUE,,,,,,,,,,,,,,,,,,1,
+ciondolo,sole,1,20,2.2,TRUE,TRUE,1,2,,,,1,,,1,,,,,,2,,1,,1
+ciondolo,onde,2,25,2.2,TRUE,TRUE,,,,,,,,,,,,,,,,,,,1
+ciondolo,fiore,2,25,2.4,TRUE,TRUE,1,,,,,,,,,,,1,,,,,,,1
+bracciale,intrecciato,3,30,,FALSE,FALSE,,,,,,1,,,,,,,,,,,,,1
+bracciale,pietra,6,40,12.6,TRUE,TRUE,1,1,,,,,,,,,1,,,,,,1,,
+altro,fermacapelli,1,20,,TRUE,FALSE,,,,,,,,,,,1,,,,,,,,
+ciondolo,sole piccolo,2,20,1.4,FALSE,TRUE,1,1,,,,,,1,,,,,,,,,,,
+ciondolo,libellula,8,40,,TRUE,TRUE,,,,,,,,,,,,,1,,,,,,
+ciondolo,gatto,3,30,3.5,TRUE,FALSE,1,,,,,,,,,,,,,,,,,,
+ciondolo,elefante,3,30,3.8,FALSE,FALSE,1,1,,,,,,,1,,,,,,,,,,
+ciondolo,pesce,6,45,6.2,TRUE,TRUE,1,,,,,,,,,,,,,,,,,,
+orecchini,sole (giovanni),2,25,,TRUE,TRUE,,,,,,,,,,,,,,1,,,,,
+ciondolo,sole grande (gio),3,35,,FALSE,TRUE,,,,,,,,,,,,,,1,,,,,
+ciondolo,mio sole,8,60,,TRUE,TRUE,1,,,,,,,,,,,,,,,,,,
+ciondolo,celtico,4,30,7.8,TRUE,FALSE,1,1,,,,,1,1,,1,,,,,1,,,1,
+ciondolo,trischele,1,15,2,TRUE,FALSE,1,,,,,,,,,1,,,,,1,,,,
+ciondolo,fiocco di neve,2,30,2.3,TRUE,TRUE,,,,,,,,1,,,,,,,,,,,
+orecchini,corno renna,4,35,,TRUE,TRUE,,1,,,,,1,,,,,,,,,,,,
+ciondolo,croce spirali,6,50,,TRUE,FALSE,,,,,,,1,,,,,,,,,,,,
+bracciale,bolle,1,20,9.1,FALSE,FALSE,1,,,,,1,,,,,,,,,,1,,,
+orecchini,chiavi (emma),2,25,,TRUE,FALSE,,1,,,,,1,,,,,,,,,,,,
+orecchini,sole cerchio,5,35,5.4,TRUE,FALSE,1,,,,,,,,,,,,,,,,,,
+ciondolo,sole luna,4,35,5.8,TRUE,TRUE,1,,,,,,,,,,,,,,,,,,
+orecchini,doppie spirali,2,25,,TRUE,TRUE,,1,,,1,,,,,1,,,1,,,,,,
+ciondolo,pentacolo,3,25,,TRUE,FALSE,1,,1,1,,1,,,,,,,,,,,,,
+ciondolo,toppo,5,45,7.5,TRUE,FALSE,1,,,,,,,,,,,,,,,,,,
+ciondolo,spiralona,2,25,8.4,TRUE,TRUE,1,1,,,,,,,,1,,,,,,,,,
+orecchini,foglie,1,15,5.1,TRUE,TRUE,1,1,,1,,,,,,,,1,,,,,,,
+ciondolo,camaleonte ,6,45,7.6,TRUE,TRUE,1,,,,,,,,,,,,,,,,,,
+ciondolo,farfalla,5,40,5.3,TRUE,FALSE,1,,,,,,,,,,,,,,,,,,
+ciondolo,croce piccola,1,15,1.3,TRUE,FALSE,1,,,,,,,,,,,,,,,,,,
+ciondolo,croce grande ,4,35,5.5,TRUE,TRUE,1,,,,,,,,,,,,,,,,,,
+ciondolo,per ankh lucido,3,35,2.3,TRUE,FALSE,1,,,,,,,,,,,,,,,,,,
+ciondolo,quadrifoglio,2,20,2,TRUE,FALSE,1,,,,,,,,1,,,,,,,,,,
+anello,fascia plus,2,30,2.6,TRUE,FALSE,2,,,,,1,,,,,,,,,1,,,,1
+anello,onde,2,20,2.1,TRUE,FALSE,2,,,,,,,,,,1,,,1,,,1,,
+bracciale,pesci ,3,20,,TRUE,TRUE,,1,,,,,,,,1,,,,,,,,,
+bracciale,perline,3,25,,TRUE,TRUE,,,,,,,,,1,,,,,,,,,,
+altro,perline,4,40,13.6,TRUE,TRUE,1,,,,,,,,,,,,,,,,,,
+orecchini,fiorellini,2,25,,TRUE,TRUE,1,,,,,,,,,,,,,,,,,,
+ciondolo,luna rotonda,5,35,,TRUE,TRUE,,,,,1,,,,,,,,,,,,,,
+orecchini,goccia contraria,4,35,,TRUE,TRUE,,,,,,,,1,,,,,,,,,,,
+ciondolo,sole cerchietti,2,25,,TRUE,TRUE,,,,,,,,1,,,,,,,,,,,
+ciondolo,acchiappasogni,6,40,,TRUE,TRUE,,,,,,,1,,,,,,,,,,,,
+ciondolo,pietra incastonata,4,35,,TRUE,TRUE,,,,,,,,1,,,,,,,,,,,
+altro,squame pesce,3,40,,TRUE,FALSE,1,,,,,,,1,,,,,,,,,,,
+ciondolo,pentacolo maschile,4,40,,TRUE,FALSE,,,1,,,,,,,,,,,,,,,,
+ciondolo,ying yang (laura),4,35,,TRUE,FALSE,,,,1,,,,,,,,,,,,,,,
+orecchini,tre riccioli,1,15,2.9,TRUE,TRUE,,1,,,,,,,1,,,1,,,,,,,
+orecchini,"foglia riccioli (elena, perla)",1,15,,TRUE,TRUE,,1,,1,,,,,,,,1,,,,,,,
+bracciale,fusilli,4,35,,FALSE,FALSE,,,,,1,,,,,,,,,,,,,,
+anello,fusilli,2,25,2.8,FALSE,FALSE,1,,,,,,,,,,,,,,,,,,
+ciondolo,spada,4,35,3.2,TRUE,FALSE,1,,,,,,,,,,,,,,,,,,
+orecchini,tre cerchi (lara),5,35,,TRUE,FALSE,,,1,,,,,,,,,,,,,,,,
+bracciale,spirali (quello brutto),2,20,,FALSE,FALSE,,,,,,1,,,,,,,,,,,,,
+ciondolo,luna spirali,4,25,,TRUE,FALSE,,,,1,,,,,,,,,,1,,,,,
+ciondolo,longobardo,6,40,,TRUE,FALSE,,1,,,,1,,,,,,,,,,,,,
+ciondolo,foglia,2,20,3.2,TRUE,FALSE,1,,,,,,,,,,,,,,,,,,
+bracciale,bizantina,12,60,10,FALSE,FALSE,1,,,,,,,,,,,,,,,,,,
+orecchini,di tania,2,20,7.4,TRUE,FALSE,,1,,,,,1,,,,,,,,,,,,
+ciondolo,spirale per tania,3,30,,TRUE,FALSE,,,,,,,,,,,,,,1,,,,,
+ciondolo,trischele bonus,4,30,3.8,TRUE,FALSE,1,,,,,,,,,,,,,,,,,,
+ciondolo,ranelle,3,25,5,TRUE,FALSE,1,,,,,,,,,,,,,,,,,,
+orecchini,triangolo,2,20,3,TRUE,FALSE,1,,,,,,,,,,,,,,,,,,
+ciondolo,miniluna,0.2,5,0.4,TRUE,FALSE,,1,,,,,,,,,,,,,,,,,
